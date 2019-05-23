@@ -47,4 +47,7 @@ In this workshop we will use IBM Watson Studio to run a notebook. For this you w
 
 ![An image showing the user how to create a notebook](images/addnotebook.png)
 
+- Choose new notebook `From URL`. Give your notebook a name and copy the URL `https://github.com/IBMDeveloperUK/Audio-Classification-w.-Convolutional-Neural-Networks/blob/master/conan_or_colbert.ipynb`
+-  The notebook will load. 
+ 
 You now have the code and resources to run the workshop. Further instructions and information can be found in the notebook.
