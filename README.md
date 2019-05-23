@@ -4,7 +4,7 @@ In this workshop you will learn how to construct a neural network using Keras wi
 
 _ahem_
 
-In this workshop, you'll learn how to tell which of two people is speaking - namely Stephen Colbert or Conan O'Briend.
+In this workshop, you'll learn how to tell which of two people is speaking - namely Stephen Colbert or Conan O'Brien.
 
 The workshop is aimed at people who are interested in learning about machine learning.
 
