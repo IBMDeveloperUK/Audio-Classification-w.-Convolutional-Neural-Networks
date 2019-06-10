@@ -1,6 +1,6 @@
 # Audio Classification w. Convolutional Neural Networks
 
-In this workshop you will learn how to construct a densely connected convolutionalneural network using Keras with a Tensorflow backend to classify spectrograms of audio files of 1 of _n_ speakers (golly, that's dense...).
+In this workshop you will learn how to construct a densely connected convolutional neural network using Keras with a Tensorflow backend to classify spectrograms of audio files of 1 of _n_ speakers (golly, that's dense...).
 
 _ahem_
 
