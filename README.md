@@ -10,24 +10,24 @@ The workshop is aimed at people who are interested in learning about machine lea
 
 ## Getting Started with Jupyter Notebooks
 
-Jupyter notebooks are an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and explanatory text. 
+Jupyter notebooks are an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and explanatory text.
 
-In this workshop we will use IBM Watson Studio to run a notebook. For this you will need an IBM Cloud account. The following steps will show you how sign up and get started. When you have the notebook up and running we will go through the notebook. 
+In this workshop we will use IBM Watson Studio to run a notebook. For this you will need an IBM Cloud account. The following steps will show you how sign up and get started. When you have the notebook up and running we will go through the notebook.
 
 ## IBM Cloud
 
-- [Sign up](https://cloud.ibm.com/registration) for an IBM Cloud account
+- [Sign up](https://ibm.biz/qconibmcloud) for an IBM Cloud account
 
 - When you are signed up click `Create Resource` at the top of the Resources page. You can find the resources under the hamburger menu at the top left:
 
  ![An image showing the locations of the 'Create Resource' button](images/resources.png)
- 
+
 - Search for Watson Studio and click on the tile:
 
 ![](images/studio.png)
 
 - Select the Lite plan and click `Create`.
-- Go back to the Resources list and click on your Watson Studio service and then click `Get Started`. 
+- Go back to the Resources list and click on your Watson Studio service and then click `Get Started`.
 
 ![An image if the IBM Cloud Catalog](images/launch.png)
 
@@ -48,6 +48,6 @@ In this workshop we will use IBM Watson Studio to run a notebook. For this you w
 ![An image showing the user how to create a notebook](images/addnotebook.png)
 
 - Choose new notebook `From URL`. Give your notebook a name and copy the URL `https://github.com/IBMDeveloperUK/Audio-Classification-w.-Convolutional-Neural-Networks/blob/master/conan_or_colbert.ipynb`
--  The notebook will load. 
- 
+-  The notebook will load.
+
 You now have the code and resources to run the workshop. Further instructions and information can be found in the notebook.
